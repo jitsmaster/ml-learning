@@ -1,6 +1,8 @@
 import numpy as np
 
-
+"""
+Linear regression is a parametric learning algorithm, which has fixed number of parameters
+"""
 class LinearRegression:
     """
     Linear Regression Implementation using Gradient Descent
